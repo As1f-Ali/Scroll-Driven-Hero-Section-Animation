@@ -116,7 +116,7 @@ const App = () => {
 
           <div ref={carRef} className="absolute left-0 z-20 h-full flex items-center px-4">
             <img 
-              src="/car.png" 
+              src="car.png" 
               alt="car" 
               className="h-[170px] w-auto drop-shadow-[20px_0_25px_rgba(0,0,0,0.8)]"
               style={{ objectFit: 'contain' }}
